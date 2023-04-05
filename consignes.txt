@@ -1,0 +1,7 @@
+2 pages -> liste pkm avec barre recherche
+	  -> détail
+
+utiliser sass
+
+
+

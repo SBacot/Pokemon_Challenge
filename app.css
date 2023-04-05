@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+* body {
+  background-color: #000000;
+}
+* body section .bg-black {
+  background-color: #000000;
+}
+* body .col-6 .minicard {
+  background-color: #68A890;
+  border-radius: 0px 0px 20% 20%;
+  height: 42vh;
+}
+* body .col-6 .minicard img {
+  width: 200px;
+}
+* body .col-6 .minicard .numb {
+  padding-left: 70px;
+}
+* body .col-6 .minicard .img img {
+  width: 25px;
+}
+* body .col-12 .bigcard {
+  background-color: #68A890;
+  border-radius: 0px 0px 20% 20%;
+  height: 30vh;
+}
+* body .col-12 .bigcard img {
+  width: 120px;
+}
+* body .col-12 .bigcard .numb {
+  padding-left: 70px;
+}
+* body .col-12 .bigcard .img img {
+  width: 25px;
+}
+* body .row {
+  padding: 10px;
+}
+* body .row .card {
+  height: 10rem;
+  width: 11rem;
+  margin-bottom: 12px;
+  margin-top: 10px;
+  border-radius: 10%;
+}
+* body .row .card img {
+  width: 100px;
+}
+* body nav {
+  height: 25vh;
+}
+* .container {
+  height: 30vh;
+}
+* .bg-purple {
+  background-color: purple;
+}/*# sourceMappingURL=app.css.map */
